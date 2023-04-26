@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T01:40:48 EET" name="Default suite" finished-at="2023-04-27T01:41:07 EET" duration-ms="18396">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T01:40:48 EET" name="Default test" finished-at="2023-04-27T01:41:07 EET" duration-ms="18396">
+      <class name="TestModuels.PackageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:48 EET" name="setUp" finished-at="2023-04-27T01:40:55 EET" duration-ms="6395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateContryCurrency(java.lang.reflect.Method)[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:55 EET" name="validateContryCurrency" finished-at="2023-04-27T01:40:55 EET" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestModuels.PackageTest.validateContryCurrency(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContryCurrency -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:55 EET" name="AfterMethod" finished-at="2023-04-27T01:40:55 EET" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:55 EET" name="setUp" finished-at="2023-04-27T01:40:59 EET" duration-ms="3932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateEgyptLitePackage()[pri:1, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:59 EET" name="validateEgyptLitePackage" finished-at="2023-04-27T01:40:59 EET" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEgyptLitePackage -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:59 EET" name="AfterMethod" finished-at="2023-04-27T01:40:59 EET" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:40:59 EET" name="setUp" finished-at="2023-04-27T01:41:03 EET" duration-ms="3685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateEgyptClassicPackage()[pri:2, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:41:03 EET" name="ValidateEgyptClassicPackage" finished-at="2023-04-27T01:41:03 EET" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEgyptClassicPackage -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:41:03 EET" name="AfterMethod" finished-at="2023-04-27T01:41:03 EET" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:41:03 EET" name="setUp" finished-at="2023-04-27T01:41:07 EET" duration-ms="3681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateEgyptPremiumPackage()[pri:3, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:41:07 EET" name="ValidateEgyptPremiumPackage" finished-at="2023-04-27T01:41:07 EET" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEgyptPremiumPackage -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestModuels.PackageTest@5acf93bb]" started-at="2023-04-27T01:41:07 EET" name="AfterMethod" finished-at="2023-04-27T01:41:07 EET" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- TestModuels.PackageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
